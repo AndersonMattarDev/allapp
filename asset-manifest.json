@@ -1,22 +1,39 @@
 {
   "files": {
-    "main.css": "./static/css/main.a1a4dbfa.css",
-    "main.js": "./static/js/main.a9f128d1.js",
+    "main.css": "./static/css/main.481fc89c.css",
+    "main.js": "./static/js/main.a34ee757.js",
     "static/js/787.30459e3f.chunk.js": "./static/js/787.30459e3f.chunk.js",
     "static/media/sistema-html-para-o-conceito-de-sites.jpg": "./static/media/sistema-html-para-o-conceito-de-sites.7e6c3afeb566d72dfb3b.jpg",
     "static/media/imgHome.jpg": "./static/media/imgHome.84437258534c0cde5bc4.jpg",
+    "static/media/auto_relevo.jpeg": "./static/media/auto_relevo.e01cf82dd87cb8677238.jpeg",
+    "static/media/quadrado_renda.jpeg": "./static/media/quadrado_renda.afa08c50b921e87942dc.jpeg",
     "static/media/logo social midea.jpg": "./static/media/logo social midea.14beb9425693bcc78f4b.jpg",
     "static/media/logo mkt.jpg": "./static/media/logo mkt.391f66baa00fe1ee8099.jpg",
+    "static/media/centro_mesa_beje.jpeg": "./static/media/centro_mesa_beje.ccac19e61e02b0dd18b5.jpeg",
+    "static/media/Foto02.jpeg": "./static/media/Foto02.fcacd2c0debf41b660f3.jpeg",
+    "static/media/Foto01.jpeg": "./static/media/Foto01.496e2dfcea9da63a1e1c.jpeg",
+    "static/media/Foto08.jpeg": "./static/media/Foto08.b024044f6cb33935ff15.jpeg",
+    "static/media/Foto09.jpeg": "./static/media/Foto09.5e373b0f8683cae8463e.jpeg",
     "static/media/logoAlltech.jpeg": "./static/media/logoAlltech.1067ce24707c86a213a0.jpeg",
+    "static/media/centro_de_mesa.jpeg": "./static/media/centro_de_mesa.d97e4a12606ae3716e38.jpeg",
     "static/media/fotoAnd.jpeg": "./static/media/fotoAnd.05f2026b7e0a26b63246.jpeg",
-    "static/media/em_construcao.jpg": "./static/media/em_construcao.adf312355f65773cd0b3.jpg",
+    "static/media/logoAntiga.png": "./static/media/logoAntiga.9d966430ee5336319b05.png",
+    "static/media/Foto11.jpeg": "./static/media/Foto11.6861654edb62b4de5fb4.jpeg",
+    "static/media/tapete_estrela peq.jpeg": "./static/media/tapete_estrela peq.cdb0e2da18c21079a74c.jpeg",
+    "static/media/tapete_estrela grd.jpeg": "./static/media/tapete_estrela grd.4af756c52542da3c54c5.jpeg",
+    "static/media/Foto10.jpeg": "./static/media/Foto10.db1809c047855090412f.jpeg",
+    "static/media/tapete_estrela beje grd.jpeg": "./static/media/tapete_estrela beje grd.d54c0add7c01e41cae4b.jpeg",
+    "static/media/Foto06.jpeg": "./static/media/Foto06.50abd5a0376f75718475.jpeg",
+    "static/media/tapete_estrela beje peq.jpeg": "./static/media/tapete_estrela beje peq.a4fc52acf89b2f7be957.jpeg",
+    "static/media/artesanatoLogo.jpeg": "./static/media/artesanatoLogo.b544d7d8cfc8669ecea7.jpeg",
+    "static/media/bandeiras.png": "./static/media/bandeiras.a8aea6e06bf66c051d20.png",
     "index.html": "./index.html",
-    "main.a1a4dbfa.css.map": "./static/css/main.a1a4dbfa.css.map",
-    "main.a9f128d1.js.map": "./static/js/main.a9f128d1.js.map",
+    "main.481fc89c.css.map": "./static/css/main.481fc89c.css.map",
+    "main.a34ee757.js.map": "./static/js/main.a34ee757.js.map",
     "787.30459e3f.chunk.js.map": "./static/js/787.30459e3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a4dbfa.css",
-    "static/js/main.a9f128d1.js"
+    "static/css/main.481fc89c.css",
+    "static/js/main.a34ee757.js"
   ]
 }
