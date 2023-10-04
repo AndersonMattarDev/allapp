@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d75a68b2.css",
-    "main.js": "./static/js/main.45f193ae.js",
+    "main.js": "./static/js/main.f0c9e6ea.js",
     "static/js/787.30459e3f.chunk.js": "./static/js/787.30459e3f.chunk.js",
     "static/media/sistema-html-para-o-conceito-de-sites.jpg": "./static/media/sistema-html-para-o-conceito-de-sites.7e6c3afeb566d72dfb3b.jpg",
     "static/media/imgHome.jpg": "./static/media/imgHome.84437258534c0cde5bc4.jpg",
@@ -17,8 +17,8 @@
     "static/media/Foto09.jpeg": "./static/media/Foto09.5e373b0f8683cae8463e.jpeg",
     "static/media/logoAlltech.jpeg": "./static/media/logoAlltech.1067ce24707c86a213a0.jpeg",
     "static/media/centro_de_mesa.jpeg": "./static/media/centro_de_mesa.d97e4a12606ae3716e38.jpeg",
+    "static/media/logoAntiga.png": "./static/media/logoAntiga.a24f199fbc6514494416.png",
     "static/media/fotoAnd.jpeg": "./static/media/fotoAnd.05f2026b7e0a26b63246.jpeg",
-    "static/media/logoAntiga.png": "./static/media/logoAntiga.9d966430ee5336319b05.png",
     "static/media/Foto11.jpeg": "./static/media/Foto11.6861654edb62b4de5fb4.jpeg",
     "static/media/tapete_estrela peq.jpeg": "./static/media/tapete_estrela peq.cdb0e2da18c21079a74c.jpeg",
     "static/media/tapete_estrela grd.jpeg": "./static/media/tapete_estrela grd.4af756c52542da3c54c5.jpeg",
@@ -29,11 +29,11 @@
     "static/media/bandeiras.png": "./static/media/bandeiras.a8aea6e06bf66c051d20.png",
     "index.html": "./index.html",
     "main.d75a68b2.css.map": "./static/css/main.d75a68b2.css.map",
-    "main.45f193ae.js.map": "./static/js/main.45f193ae.js.map",
+    "main.f0c9e6ea.js.map": "./static/js/main.f0c9e6ea.js.map",
     "787.30459e3f.chunk.js.map": "./static/js/787.30459e3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d75a68b2.css",
-    "static/js/main.45f193ae.js"
+    "static/js/main.f0c9e6ea.js"
   ]
 }
