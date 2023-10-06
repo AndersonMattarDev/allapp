@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.d75a68b2.css",
-    "main.js": "./static/js/main.f0c9e6ea.js",
+    "main.css": "./static/css/main.5aa89a7c.css",
+    "main.js": "./static/js/main.e424a0fe.js",
     "static/js/787.30459e3f.chunk.js": "./static/js/787.30459e3f.chunk.js",
     "static/media/sistema-html-para-o-conceito-de-sites.jpg": "./static/media/sistema-html-para-o-conceito-de-sites.7e6c3afeb566d72dfb3b.jpg",
     "static/media/imgHome.jpg": "./static/media/imgHome.84437258534c0cde5bc4.jpg",
     "static/media/capaCroche.png": "./static/media/capaCroche.ea5c46dc309e6bc9b502.png",
     "static/media/auto_relevo.jpeg": "./static/media/auto_relevo.e01cf82dd87cb8677238.jpeg",
+    "static/media/banner.jpg": "./static/media/banner.760bd637529fe804f479.jpg",
     "static/media/quadrado_renda.jpeg": "./static/media/quadrado_renda.afa08c50b921e87942dc.jpeg",
     "static/media/logo social midea.jpg": "./static/media/logo social midea.14beb9425693bcc78f4b.jpg",
     "static/media/logo mkt.jpg": "./static/media/logo mkt.391f66baa00fe1ee8099.jpg",
@@ -28,12 +29,12 @@
     "static/media/tapete_estrela beje peq.jpeg": "./static/media/tapete_estrela beje peq.a4fc52acf89b2f7be957.jpeg",
     "static/media/bandeiras.png": "./static/media/bandeiras.a8aea6e06bf66c051d20.png",
     "index.html": "./index.html",
-    "main.d75a68b2.css.map": "./static/css/main.d75a68b2.css.map",
-    "main.f0c9e6ea.js.map": "./static/js/main.f0c9e6ea.js.map",
+    "main.5aa89a7c.css.map": "./static/css/main.5aa89a7c.css.map",
+    "main.e424a0fe.js.map": "./static/js/main.e424a0fe.js.map",
     "787.30459e3f.chunk.js.map": "./static/js/787.30459e3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d75a68b2.css",
-    "static/js/main.f0c9e6ea.js"
+    "static/css/main.5aa89a7c.css",
+    "static/js/main.e424a0fe.js"
   ]
 }
